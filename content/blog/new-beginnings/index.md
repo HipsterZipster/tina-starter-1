@@ -6,13 +6,11 @@ description: >-
   default generated excerpt. Simply add a description field to the frontmatter.
 
 
-  Hi I just added content to the gatsby starter blog
+  Hi I just added content to the gatsby starter blog TEXTAREA
 ---
+hi hi i just added content into the BODY. 
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.
 
 ## On deer horse aboard tritely yikes and much
 
@@ -21,10 +19,10 @@ Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
 didn’t listen. She packed her seven versalia, put her initial into the belt and
 made herself on the way.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+* This however showed weasel
+* Well uncritical so misled
+  * this is very interesting
+* Goodness much until that fluid owl
 
 When she reached the first hills of the **Italic Mountains**, she had a last
 view back on the skyline of her hometown _Bookmarksgrove_, the headline of
@@ -56,11 +54,11 @@ Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
 didn’t listen. She packed her seven versalia, put her initial into the belt and
 made herself on the way.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+1. So baboon this
+2. Mounted militant weasel gregariously admonishingly straightly hey
+3. Dear foresaw hungry and much some overhung
+4. Rash opossum less because less some amid besides yikes jeepers frenetic
+   impassive fruitlessly shut
 
 When she reached the first hills of the Italic Mountains, she had a last view
 back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
